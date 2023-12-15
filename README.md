@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=yoonsoo%20Kim&fontSize=90" />
 
-<h1 align="center">Hi 👋, I'm yoonsoo Kim</h1>
+<h1 align="center">👋 Hi 👋</h1>
 <h3 align="center">Department of Computer Engineering at GCU</h3>  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoondu&count_bg=%230FA0D0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -11,7 +11,7 @@
 
 
 
-  
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/doondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doondu" height="30" width="40" /></a>
