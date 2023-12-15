@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm yoonsoo Kim</h1>
 <h3 align="center">Department of Computer Engineering at GCU</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doondu" alt="doondu" /></a> </p>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoondu&count_bg=%230FA0D0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - 🔭 I’m currently working on [https://github.com/GCUpProject/P1](https://github.com/GCUpProject/P1)
 
 - 📫 How to reach me **rabbit7183@gmail.com**
