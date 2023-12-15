@@ -8,10 +8,10 @@
 - 🔭 I’m currently working on [https://github.com/GCUpProject/P1](https://github.com/GCUpProject/P1)
 
 - 📫 How to reach me **rabbit7183@gmail.com**
-
-
-
-    
+<br/>
+<br/>
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/doondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="doondu" height="30" width="40" /></a>
