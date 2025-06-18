@@ -6,5 +6,5 @@
 - **🌍 Development Tools**: Git, GitLab, Agile, Google Test, Ubuntu, Amazon Workspaces, Unity
 
 ### CONTACT
-- yoonsookim1102@gmail.com
-- [LinkdeIn](www.linkedin.com/in/yoonsoo1102)
+- **Gmail**: yoonsookim1102@gmail.com
+- **LinkedIn**: www.linkedin.com/in/yoonsoo1102
